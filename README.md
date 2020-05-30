@@ -16,3 +16,6 @@ No melhor caso, o algoritmo executa {\displaystyle n}n operações relevantes, o
 Um palíndromo é uma palavra, frase ou qualquer outra sequência de unidades (como uma cadeia de ADN; Enzima de restrição) que tenha a propriedade de poder ser lida tanto da direita para a esquerda como da esquerda para a direita. Num palíndromo, normalmente são desconsiderados os sinais ortográficos (diacríticos ou de pontuação), assim como o espaços entre palavras [1]
 
 A palavra "palíndromo" vem das palavras gregas palin (πάλιν (πάλι, no grego moderno) "para trás, novamente") e dromos (δρόμος, "caminho, rua") - que corre em sentido inverso.
+
+6. Descreva o problema do caixeiro viajante:
+O problema do caixeiro-viajante consiste na procura de um circuito que possua a menor distância, começando numa qualquer cidade, entre várias, visitando cada cidade precisamente uma vez e regressando à cidade inicial.
