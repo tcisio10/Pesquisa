@@ -2,7 +2,7 @@
 package javaapplication28;
 
 
-public class JavaApplication28 {
+public class JavaApplication {
 
     /**
      * @param args the command line arguments
