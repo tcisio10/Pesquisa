@@ -1,2 +1,2 @@
-1) O que é um Algoritmo Recursivo
+1) O que é um Algoritmo Recursivo: 
 Em Java, um método pode chamar a si mesmo, esse processo se chama recursão e dizemos que um método é recursivo quando chama a si próprio. Em geral, recursão é o processo em que algo é definido a partir de si mesmo e é um pouco parecido com uma definição circular. O componete chave do método recursivo é a instrução que executa uma chamada a ele próprio. A recursão é um mecanismo de controle poderoso.
