@@ -4,6 +4,10 @@ Em Java, um método pode chamar a si mesmo, esse processo se chama recursão e d
 2) Descreva o algoritmo de Euclides:
 algoritmo de Euclides[a] é um método simples e eficiente de encontrar o máximo divisor comum entre dois números inteiros diferentes de zero. É um dos algoritmos mais antigos, conhecido desde que surgiu nos Livros VII e X da obra Elementos de Euclides[1] por volta de 300 a.C.. O algoritmo não exige qualquer fatoração.
 
-3) É uma sucessão de números que, misteriosamente, aparece em muitos fenômenos da natureza. Descrita no final do século 12 pelo italiano Leonardo Fibonacci, ela é infinita e começa com 0 e 1. Os números seguintes são sempre a soma dos dois números anteriores. Portanto, depois de 0 e 1, vêm 1, 2, 3, 5, 8, 13, 21, 34…
+3)Explique o que é a Sequência de Fibonacci:
+É uma sucessão de números que, misteriosamente, aparece em muitos fenômenos da natureza. Descrita no final do século 12 pelo italiano Leonardo Fibonacci, ela é infinita e começa com 0 e 1. Os números seguintes são sempre a soma dos dois números anteriores. Portanto, depois de 0 e 1, vêm 1, 2, 3, 5, 8, 13, 21, 34…
 
-4)
+4) Descreva o Algoritmo do BubbleSort: 
+é um algoritmo de ordenação dos mais simples. A ideia é percorrer o vector diversas vezes, e a cada passagem fazer flutuar para o topo o maior elemento da sequência. Essa movimentação lembra a forma como as bolhas em um tanque de água procuram seu próprio nível, e disso vem o nome do algoritmo.
+
+No melhor caso, o algoritmo executa {\displaystyle n}n operações relevantes, onde {\displaystyle n}n representa o número de elementos do vector. No pior caso, são feitas {\displaystyle n^{2}}n^2 operações. A complexidade desse algoritmo é de ordem quadrática. Por isso, ele não é recomendado para programas que precisem de velocidade e operem com quantidade elevada de dados.
